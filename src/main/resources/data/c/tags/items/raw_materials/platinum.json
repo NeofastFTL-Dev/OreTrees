@@ -1,0 +1,13 @@
+﻿{
+    "replace":  false,
+    "values":  [
+                   {
+                       "id":  "oretrees:platinum_resin",
+                       "required":  false
+                   },
+                   {
+                       "id":  "oretrees:platinum_acorn",
+                       "required":  false
+                   }
+               ]
+}

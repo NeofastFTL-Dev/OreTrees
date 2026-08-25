@@ -1,0 +1,6 @@
+﻿{
+    "textures":  {
+                     "layer0":  "oretrees:item/ore_acorn"
+                 },
+    "parent":  "minecraft:item/generated"
+}

@@ -1,0 +1,18 @@
+﻿{
+    "type":  "minecraft:crafting_shaped",
+    "category":  "misc",
+    "key":  {
+                "R":  {
+                          "item":  "oretrees:nickel_resin"
+                      },
+                "A":  {
+                          "item":  "oretrees:nickel_acorn"
+                      }
+            },
+    "pattern": [ "ARA", "RAR", "ARA" ],
+    "result":  {
+                   "id":  "alltheores:raw_nickel",
+                   "count":  1
+               }
+}
+

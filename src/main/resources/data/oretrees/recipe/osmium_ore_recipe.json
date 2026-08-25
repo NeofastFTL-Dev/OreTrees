@@ -1,0 +1,18 @@
+﻿{
+    "type":  "minecraft:crafting_shaped",
+    "category":  "misc",
+    "key":  {
+                "R":  {
+                          "item":  "oretrees:osmium_resin"
+                      },
+                "A":  {
+                          "item":  "oretrees:osmium_acorn"
+                      }
+            },
+    "pattern": [ "ARA", "RAR", "ARA" ],
+    "result":  {
+                   "id":  "alltheores:raw_osmium",
+                   "count":  1
+               }
+}
+

@@ -1,0 +1,13 @@
+﻿{
+    "replace":  false,
+    "values":  [
+                   {
+                       "id":  "oretrees:uranium_resin",
+                       "required":  false
+                   },
+                   {
+                       "id":  "oretrees:uranium_acorn",
+                       "required":  false
+                   }
+               ]
+}

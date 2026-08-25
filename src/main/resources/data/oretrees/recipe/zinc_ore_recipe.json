@@ -1,0 +1,18 @@
+﻿{
+    "type":  "minecraft:crafting_shaped",
+    "category":  "misc",
+    "key":  {
+                "R":  {
+                          "item":  "oretrees:zinc_resin"
+                      },
+                "A":  {
+                          "item":  "oretrees:zinc_acorn"
+                      }
+            },
+    "pattern": [ "ARA", "RAR", "ARA" ],
+    "result":  {
+                   "id":  "alltheores:raw_zinc",
+                   "count":  1
+               }
+}
+

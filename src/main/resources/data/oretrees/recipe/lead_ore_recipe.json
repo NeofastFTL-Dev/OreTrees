@@ -1,0 +1,18 @@
+﻿{
+    "type":  "minecraft:crafting_shaped",
+    "category":  "misc",
+    "key":  {
+                "R":  {
+                          "item":  "oretrees:lead_resin"
+                      },
+                "A":  {
+                          "item":  "oretrees:lead_acorn"
+                      }
+            },
+    "pattern": [ "ARA", "RAR", "ARA" ],
+    "result":  {
+                   "id":  "alltheores:raw_lead",
+                   "count":  1
+               }
+}
+

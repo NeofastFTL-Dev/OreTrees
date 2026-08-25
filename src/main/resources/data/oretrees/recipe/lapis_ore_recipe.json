@@ -1,0 +1,18 @@
+﻿{
+    "type":  "minecraft:crafting_shaped",
+    "category":  "misc",
+    "key":  {
+                "R":  {
+                          "item":  "oretrees:lapis_resin"
+                      },
+                "A":  {
+                          "item":  "oretrees:lapis_acorn"
+                      }
+            },
+    "pattern": [ "ARA", "RAR", "ARA" ],
+    "result":  {
+                   "id":  "minecraft:lapis_lazuli",
+                   "count":  1
+               }
+}
+

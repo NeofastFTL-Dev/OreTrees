@@ -1,0 +1,18 @@
+﻿{
+    "type":  "minecraft:crafting_shaped",
+    "category":  "misc",
+    "key":  {
+                "R":  {
+                          "item":  "oretrees:emerald_resin"
+                      },
+                "A":  {
+                          "item":  "oretrees:emerald_acorn"
+                      }
+            },
+    "pattern": [ "ARA", "RAR", "ARA" ],
+    "result":  {
+                   "id":  "minecraft:emerald",
+                   "count":  1
+               }
+}
+

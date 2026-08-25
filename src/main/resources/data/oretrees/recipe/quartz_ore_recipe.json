@@ -1,0 +1,18 @@
+﻿{
+    "type":  "minecraft:crafting_shaped",
+    "category":  "misc",
+    "key":  {
+                "R":  {
+                          "item":  "oretrees:quartz_resin"
+                      },
+                "A":  {
+                          "item":  "oretrees:quartz_acorn"
+                      }
+            },
+    "pattern": [ "ARA", "RAR", "ARA" ],
+    "result":  {
+                   "id":  "minecraft:quartz",
+                   "count":  1
+               }
+}
+

@@ -1,0 +1,18 @@
+﻿{
+    "type":  "minecraft:crafting_shaped",
+    "category":  "misc",
+    "key":  {
+                "R":  {
+                          "item":  "oretrees:clay_resin"
+                      },
+                "A":  {
+                          "item":  "oretrees:clay_acorn"
+                      }
+            },
+    "pattern": [ "ARA", "RAR", "ARA" ],
+    "result":  {
+                   "id":  "minecraft:clay",
+                   "count":  1
+               }
+}
+

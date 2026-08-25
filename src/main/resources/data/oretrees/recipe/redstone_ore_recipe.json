@@ -1,0 +1,18 @@
+﻿{
+    "type":  "minecraft:crafting_shaped",
+    "category":  "misc",
+    "key":  {
+                "R":  {
+                          "item":  "oretrees:redstone_resin"
+                      },
+                "A":  {
+                          "item":  "oretrees:redstone_acorn"
+                      }
+            },
+    "pattern": [ "ARA", "RAR", "ARA" ],
+    "result":  {
+                   "id":  "minecraft:redstone",
+                   "count":  1
+               }
+}
+

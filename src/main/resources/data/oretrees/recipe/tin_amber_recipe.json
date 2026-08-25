@@ -1,0 +1,21 @@
+﻿{
+    "key":  {
+                "R":  {
+                          "item":  "oretrees:tin_resin"
+                      },
+                "A":  {
+                          "item":  "oretrees:tin_acorn"
+                      }
+            },
+    "category":  "misc",
+    "pattern":  [
+                    "RAR",
+                    "ARA",
+                    "RAR"
+                ],
+    "result":  {
+                   "id":  "oretrees:tin_amber",
+                   "count":  1
+               },
+    "type":  "minecraft:crafting_shaped"
+}

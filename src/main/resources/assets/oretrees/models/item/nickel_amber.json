@@ -1,0 +1,7 @@
+{
+    "textures":  {
+                     "layer0":  "oretrees:item/amber"
+                 },
+    "parent":  "minecraft:item/generated"
+}
+

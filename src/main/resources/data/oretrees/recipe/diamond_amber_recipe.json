@@ -1,0 +1,21 @@
+﻿{
+    "key":  {
+                "R":  {
+                          "item":  "oretrees:diamond_resin"
+                      },
+                "A":  {
+                          "item":  "oretrees:diamond_acorn"
+                      }
+            },
+    "category":  "misc",
+    "pattern":  [
+                    "RAR",
+                    "ARA",
+                    "RAR"
+                ],
+    "result":  {
+                   "id":  "oretrees:diamond_amber",
+                   "count":  1
+               },
+    "type":  "minecraft:crafting_shaped"
+}

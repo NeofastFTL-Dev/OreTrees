@@ -1,0 +1,13 @@
+﻿{
+    "replace":  false,
+    "values":  [
+                   {
+                       "id":  "oretrees:copper_resin",
+                       "required":  false
+                   },
+                   {
+                       "id":  "oretrees:copper_acorn",
+                       "required":  false
+                   }
+               ]
+}

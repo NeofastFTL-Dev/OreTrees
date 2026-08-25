@@ -1,0 +1,14 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wood",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "oretrees:log"
+    }
+  ],
+  "result": {
+    "id": "minecraft:oak_planks",
+    "count": 4
+  }
+}

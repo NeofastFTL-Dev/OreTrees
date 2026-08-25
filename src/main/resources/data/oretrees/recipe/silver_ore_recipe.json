@@ -1,0 +1,18 @@
+﻿{
+    "type":  "minecraft:crafting_shaped",
+    "category":  "misc",
+    "key":  {
+                "R":  {
+                          "item":  "oretrees:silver_resin"
+                      },
+                "A":  {
+                          "item":  "oretrees:silver_acorn"
+                      }
+            },
+    "pattern": [ "ARA", "RAR", "ARA" ],
+    "result":  {
+                   "id":  "alltheores:raw_silver",
+                   "count":  1
+               }
+}
+

@@ -1,0 +1,21 @@
+﻿{
+    "key":  {
+                "R":  {
+                          "item":  "oretrees:lead_resin"
+                      },
+                "A":  {
+                          "item":  "oretrees:lead_acorn"
+                      }
+            },
+    "category":  "misc",
+    "pattern":  [
+                    "RAR",
+                    "ARA",
+                    "RAR"
+                ],
+    "result":  {
+                   "id":  "oretrees:lead_amber",
+                   "count":  1
+               },
+    "type":  "minecraft:crafting_shaped"
+}

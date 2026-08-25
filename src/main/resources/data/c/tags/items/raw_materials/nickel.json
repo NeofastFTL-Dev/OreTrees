@@ -1,0 +1,13 @@
+﻿{
+    "replace":  false,
+    "values":  [
+                   {
+                       "id":  "oretrees:nickel_resin",
+                       "required":  false
+                   },
+                   {
+                       "id":  "oretrees:nickel_acorn",
+                       "required":  false
+                   }
+               ]
+}

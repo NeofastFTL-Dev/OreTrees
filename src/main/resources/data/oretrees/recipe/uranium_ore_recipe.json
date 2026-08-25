@@ -1,0 +1,18 @@
+﻿{
+    "type":  "minecraft:crafting_shaped",
+    "category":  "misc",
+    "key":  {
+                "R":  {
+                          "item":  "oretrees:uranium_resin"
+                      },
+                "A":  {
+                          "item":  "oretrees:uranium_acorn"
+                      }
+            },
+    "pattern": [ "ARA", "RAR", "ARA" ],
+    "result":  {
+                   "id":  "c:ores/uranium",
+                   "count":  1
+               }
+}
+

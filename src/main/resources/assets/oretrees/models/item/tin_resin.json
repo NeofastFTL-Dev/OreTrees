@@ -1,0 +1,6 @@
+﻿{
+    "textures":  {
+                     "layer0":  "oretrees:item/ore_resin"
+                 },
+    "parent":  "minecraft:item/generated"
+}

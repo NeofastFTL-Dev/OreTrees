@@ -1,0 +1,13 @@
+﻿{
+    "replace":  false,
+    "values":  [
+                   {
+                       "id":  "oretrees:gold_resin",
+                       "required":  false
+                   },
+                   {
+                       "id":  "oretrees:gold_acorn",
+                       "required":  false
+                   }
+               ]
+}

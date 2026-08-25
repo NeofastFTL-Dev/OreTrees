@@ -1,0 +1,21 @@
+﻿{
+    "key":  {
+                "R":  {
+                          "item":  "oretrees:ore_resin"
+                      },
+                "A":  {
+                          "item":  "oretrees:ore_acorn"
+                      }
+            },
+    "category":  "misc",
+    "pattern":  [
+                    "RAR",
+                    "ARA",
+                    "RAR"
+                ],
+    "result":  {
+                   "id":  "oretrees:ore_amber",
+                   "count":  1
+               },
+    "type":  "minecraft:crafting_shaped"
+}
